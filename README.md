@@ -5,7 +5,7 @@
 
 - 💻 I'm working as a Full-time Flutter Developer at Akaar IT LTD.
 
-- 👀 I’m interested in Flutter,Dart,Android
+- 👀 I’m interested in Flutter,Dart,Android & Ios
 
 - 🌱 I’m currently Learning/Developing App using Flutter Framework.
 
@@ -15,8 +15,10 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/hmbadhon" target="blank"><img src="https://image.flaticon.com/icons/png/512/145/145812.png" alt="hmbadhon" height="50" width="50" /></a>
+<a href="https://hmbadhon.me" target="blank"><img src="https://cdn-icons.flaticon.com/png/512/1927/premium/1927768.png?token=exp=1640545527~hmac=9041c46936f64e5aaea04c3b4238fdcb" alt="hmbadhon.me" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/hmbadhon" target="blank"><img src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="hmbadhon" height="50" width="50" /></a>
+<a href="https://twitter.com/hmbadhon" target="blank"><img src="https://image.flaticon.com/icons/png/512/145/145812.png" alt="hmbadhon" height="50" width="50" /></a>
+
 
 ## 🧰 Languages and Tools:
 <p align="start">
