@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/hmbadhon?label=hmbadhon&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/hmbadhon?logo=GitHub&style=for-the-badge)
 
-- 💻 I'm working as a Full-time Software Engineer (Mobile) at InfoDigita Technologies.
+- 💻 I'm working as a Full-time Software Developer (Mobile) at InfoDigita Technologies.
 
 - 👀 I’m interested in Flutter,Dart,Android & Ios
 
